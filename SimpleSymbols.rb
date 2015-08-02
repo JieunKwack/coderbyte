@@ -1,4 +1,4 @@
-def SimpleSymbols(str)
+def SimpleSymbols(str)#4점 .....ㅠ.ㅠ
 
   # code goes here
   str = str.split("")
